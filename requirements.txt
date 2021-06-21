@@ -1,0 +1,11 @@
+hottbox
+pyfolio
+yfinance
+simfin
+seaborn
+scikit-learn
+pandas
+numpy
+matplotlib
+alphalens
+notebook
